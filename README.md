@@ -1,3 +1,3 @@
 # core
 
-This is the core microservice for AarogyaVat
+This is the core microservice for AarogyaVat.
